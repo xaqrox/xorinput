@@ -1,6 +1,7 @@
 # xorinput
 Disable laptop keyboard (and later, mouse/trackpad) when using external
 input devices.
+
 :warning: Experimental, proceed with caution. :warning:
 
 ## Installation/Usage
